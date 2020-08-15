@@ -1,2 +1,3 @@
 # musicplayer-python6
-Asimple mussic player made with python
+A simple music player  with  python
+Language
